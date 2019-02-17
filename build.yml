@@ -1,0 +1,4 @@
+apps:
+  - script   : build.js
+    instances: 8
+    exec_mode: cluster

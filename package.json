@@ -1,0 +1,8 @@
+{
+  "name": "nodejs_worker_threads_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:siwilizhao/nodejs_worker_threads_demo.git",
+  "author": "siwilizhao <siwilizhao@gmail.com>",
+  "license": "MIT"
+}

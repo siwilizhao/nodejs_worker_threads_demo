@@ -1,0 +1,4 @@
+apps:
+  - script   : consume.js
+    instances: 8
+    exec_mode: cluster
